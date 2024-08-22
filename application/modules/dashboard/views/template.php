@@ -462,6 +462,14 @@
                                             'submenu'   => FALSE,
                                         ),
                                         array(
+                                            'title'     => 'Gold Elite',
+                                            'icon'      => 'ti-gift',
+                                            'url'       => 'royalty',
+                                            'notif'     => 0,
+                                            'typenotif' => null,
+                                            'submenu'   => FALSE,
+                                        ),
+                                        array(
                                             'title'     => 'Stament Bonus',
                                             'icon'      => 'ti-gift',
                                             'url'       => 'statement-bonus',
