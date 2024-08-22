@@ -1,0 +1,274 @@
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:03 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 250
+ERROR - 2024-07-01 00:15:05 --> Severity: Warning --> Division by zero /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 186
+ERROR - 2024-07-01 00:15:05 --> Severity: Warning --> Division by zero /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 313
+ERROR - 2024-07-01 06:53:44 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:54:15 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:55:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:55:31 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:56:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:57:16 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:57:20 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:58:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:59:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 06:59:20 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:00:39 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:01:52 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:03:28 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:03:54 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:04:01 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:04:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:04:30 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:05:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:05:20 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:05:22 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:24:05 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:24:13 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:24:38 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:25:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:25:10 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:26:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:26:53 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:28:28 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:29:10 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:31:31 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:34:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:34:51 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:35:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:36:09 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:36:55 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:37:02 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:38:51 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:39:46 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:40:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:40:42 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:40:47 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:41:11 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:41:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:43:05 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:54:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:54:29 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:55:09 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:55:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:55:45 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:55:54 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:57:16 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:57:38 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:58:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:58:07 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:58:27 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 07:58:56 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:00:14 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:00:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:00:38 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:01:10 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:02:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:07:07 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:26:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:26:10 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:26:29 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:38:36 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:38:48 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 08:50:18 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:12:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:12:34 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:12:43 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:12:51 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:14:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:14:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:14:47 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:14:55 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:15:02 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:15:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:18:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:19:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:19:31 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:20:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:20:42 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:22:03 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:22:39 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:23:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:23:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:26:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:26:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:28:38 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:29:00 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:29:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:29:08 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:29:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:29:14 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:29:16 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:45:30 --> Severity: error --> Exception: Call to undefined method Rank::rangking() /home/n1578212/public_html/wellartdaniel.com/application/models/Rank.php 178
+ERROR - 2024-07-01 09:58:45 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 09:58:45 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:26:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:36:43 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:36:58 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:37:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:46:05 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:47:22 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:47:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:48:01 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:49:01 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:49:16 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:50:09 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:50:16 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:51:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:55:59 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:56:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:56:36 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:57:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 11:57:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 12:02:33 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 12:02:50 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:34:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:34:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:36:08 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:39:38 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:39:42 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:40:01 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:40:20 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:40:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:41:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:42:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:42:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:42:30 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:43:02 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:43:30 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:43:51 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:43:53 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:44:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:45:39 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:46:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:46:22 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:46:35 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:47:37 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:48:01 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:48:25 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:48:52 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:53:53 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:54:16 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 13:56:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 14:06:07 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 14:06:28 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 14:07:14 --> 404 Page Not Found: /index
+ERROR - 2024-07-01 19:15:10 --> 404 Page Not Found: /index

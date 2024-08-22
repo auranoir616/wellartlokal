@@ -1,0 +1,215 @@
+ERROR - 2024-08-22 08:11:30 --> 404 Page Not Found: 
+ERROR - 2024-08-22 08:14:11 --> Query error: Not unique table/alias: 'tb_users_pin' - Invalid query: SELECT `tb_users`.*, COUNT(tb_users_pin.pin_userid) as total_pins
+FROM (`tb_users`, `tb_users_pin`)
+LEFT JOIN `tb_users_pin` ON `tb_users`.`id` = `tb_users_pin`.`pin_userid`
+WHERE `tb_users_pin`.`pin_userid` != 1
+AND `tb_users_pin`.`pin_package_id` = 2
+GROUP BY `tb_users`.`id`
+ LIMIT 5
+ERROR - 2024-08-22 08:37:36 --> Severity: Warning --> mysqli::query(): Empty query D:\data\wellartlokal\system\database\drivers\mysqli\mysqli_driver.php 305
+ERROR - 2024-08-22 08:37:36 --> Query error:  - Invalid query: 
+ERROR - 2024-08-22 08:37:37 --> Severity: Warning --> mysqli::query(): Empty query D:\data\wellartlokal\system\database\drivers\mysqli\mysqli_driver.php 305
+ERROR - 2024-08-22 08:37:37 --> Query error:  - Invalid query: 
+ERROR - 2024-08-22 08:38:03 --> Severity: Warning --> mysqli::query(): Empty query D:\data\wellartlokal\system\database\drivers\mysqli\mysqli_driver.php 305
+ERROR - 2024-08-22 08:38:03 --> Query error:  - Invalid query: 
+ERROR - 2024-08-22 08:40:01 --> Severity: Notice --> Undefined property: stdClass::$id D:\data\wellartlokal\application\modules\administrator\views\repeat-order-member.php 146
+ERROR - 2024-08-22 08:40:01 --> Severity: Notice --> Undefined property: stdClass::$id D:\data\wellartlokal\application\modules\administrator\views\repeat-order-member.php 146
+ERROR - 2024-08-22 08:40:01 --> Severity: Notice --> Undefined property: stdClass::$id D:\data\wellartlokal\application\modules\administrator\views\repeat-order-member.php 146
+ERROR - 2024-08-22 08:40:01 --> Severity: Notice --> Undefined property: stdClass::$id D:\data\wellartlokal\application\modules\administrator\views\repeat-order-member.php 146
+ERROR - 2024-08-22 08:40:01 --> Severity: Notice --> Undefined property: stdClass::$id D:\data\wellartlokal\application\modules\administrator\views\repeat-order-member.php 146
+ERROR - 2024-08-22 09:08:24 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 09:08:52 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 09:10:25 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 09:11:28 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 09:51:53 --> 404 Page Not Found: /index
+ERROR - 2024-08-22 09:58:21 --> Severity: Notice --> Undefined property: CI::$eb D:\data\wellartlokal\application\third_party\MX\Loader.php 310
+ERROR - 2024-08-22 09:58:21 --> Severity: error --> Exception: Call to a member function where() on null D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 17
+ERROR - 2024-08-22 09:58:27 --> Severity: Notice --> Undefined property: CI::$eb D:\data\wellartlokal\application\third_party\MX\Loader.php 310
+ERROR - 2024-08-22 09:58:27 --> Severity: error --> Exception: Call to a member function where() on null D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 17
+ERROR - 2024-08-22 09:58:27 --> Severity: Notice --> Undefined property: CI::$eb D:\data\wellartlokal\application\third_party\MX\Loader.php 310
+ERROR - 2024-08-22 09:58:27 --> Severity: error --> Exception: Call to a member function where() on null D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 17
+ERROR - 2024-08-22 10:01:18 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 10:01:33 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 10:01:54 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:06:35 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 156
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:06:35 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 156
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:09:48 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 156
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:09:48 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 156
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:13:29 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:13:29 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:14:14 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 138
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:14:14 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 147
+ERROR - 2024-08-22 10:15:08 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 170
+ERROR - 2024-08-22 10:15:08 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 170
+ERROR - 2024-08-22 10:15:08 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 170
+ERROR - 2024-08-22 10:15:08 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 170
+ERROR - 2024-08-22 10:15:08 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 170
+ERROR - 2024-08-22 10:15:08 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 170
+ERROR - 2024-08-22 10:15:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 171
+ERROR - 2024-08-22 10:15:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 171
+ERROR - 2024-08-22 10:15:45 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 171
+ERROR - 2024-08-22 10:15:45 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 171
+ERROR - 2024-08-22 10:15:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 171
+ERROR - 2024-08-22 10:15:45 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 171
+ERROR - 2024-08-22 10:18:04 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 172
+ERROR - 2024-08-22 10:18:04 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 172
+ERROR - 2024-08-22 10:18:04 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 172
+ERROR - 2024-08-22 10:18:04 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 172
+ERROR - 2024-08-22 10:18:04 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 172
+ERROR - 2024-08-22 10:18:04 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 172
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:18:37 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 146
+ERROR - 2024-08-22 10:18:37 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 146
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 146
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 146
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 137
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 146
+ERROR - 2024-08-22 10:19:30 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\cronjob\controllers\Cronjob.php 146
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:35:28 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:45 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:39:58 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 44
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 44
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 44
+ERROR - 2024-08-22 10:41:02 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 44
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:41:34 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 42
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Notice --> Trying to access array offset on value of type int D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> A non-numeric value encountered D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 10:42:05 --> Severity: Warning --> Illegal string offset 'idrank' D:\data\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 10:43:43 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 10:44:29 --> Query error: Unknown column 'rank_id' in 'where clause' - Invalid query: SELECT *
+FROM `tb_users`
+WHERE `upline_id` = '4'
+AND `rank_id` != 1
+ERROR - 2024-08-22 10:45:00 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 10:45:48 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 10:45:56 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184

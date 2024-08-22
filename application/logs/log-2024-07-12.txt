@@ -1,0 +1,155 @@
+ERROR - 2024-07-12 00:54:15 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 02:02:52 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 02:03:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 02:03:11 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:50 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:50 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:21:54 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 06:22:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 08:06:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 08:21:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 08:22:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 08:23:57 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 08:24:09 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:13:39 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:13:47 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:14:45 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:14:56 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:15:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:15:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:15:25 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:15:28 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:15:48 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:15:53 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:16:14 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:16:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:17:10 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:17:18 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:17:55 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:18:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:20:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:20:53 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:21:19 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:21:48 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:22:02 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:31:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IN('4', '6', '8', '55', '111', '15', '28')' at line 2 - Invalid query: DELETE FROM `tb_wallet_balance`
+WHERE `w_balance_wallet_id` != IN('4', '6', '8', '55', '111', '15', '28')
+ERROR - 2024-07-12 09:34:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IN('4', '6', '8', '55', '111', '15', '28')' at line 2 - Invalid query: DELETE FROM `tb_wallet_balance`
+WHERE `w_balance_wallet_id` != IN('4', '6', '8', '55', '111', '15', '28')
+ERROR - 2024-07-12 09:36:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IN('4', '6', '8', '55', '111', '15', '28')' at line 2 - Invalid query: DELETE FROM `tb_wallet_balance`
+WHERE `w_balance_wallet_id` != IN('4', '6', '8', '55', '111', '15', '28')
+ERROR - 2024-07-12 09:36:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IN('4', '6', '8', '55', '111', '15', '28')' at line 2 - Invalid query: DELETE FROM `tb_wallet_balance`
+WHERE `w_balance_wallet_id` != IN('4', '6', '8', '55', '111', '15', '28')
+ERROR - 2024-07-12 09:40:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:40:40 --> Severity: Notice --> Trying to get property 'userrank_ranklabel' of non-object /home/n1578212/public_html/wellartdaniel.com/application/modules/dashboard/views/page/dashboard.php 36
+ERROR - 2024-07-12 09:40:49 --> Severity: Notice --> Trying to get property 'userrank_ranklabel' of non-object /home/n1578212/public_html/wellartdaniel.com/application/modules/dashboard/views/page/dashboard.php 36
+ERROR - 2024-07-12 09:41:11 --> Severity: Notice --> Trying to get property 'userrank_ranklabel' of non-object /home/n1578212/public_html/wellartdaniel.com/application/modules/dashboard/views/page/dashboard.php 36
+ERROR - 2024-07-12 09:41:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:41:24 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:41:35 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:41:46 --> Severity: Notice --> Trying to get property 'userrank_ranklabel' of non-object /home/n1578212/public_html/wellartdaniel.com/application/modules/dashboard/views/page/dashboard.php 36
+ERROR - 2024-07-12 09:43:20 --> Could not find the language line "form_validation_required"
+ERROR - 2024-07-12 09:43:20 --> Could not find the language line "form_validation_required"
+ERROR - 2024-07-12 09:43:20 --> Could not find the language line "form_validation_required"
+ERROR - 2024-07-12 09:43:20 --> Could not find the language line "form_validation_required"
+ERROR - 2024-07-12 09:43:20 --> Could not find the language line "form_validation_required"
+ERROR - 2024-07-12 09:43:20 --> Could not find the language line "form_validation_required"
+ERROR - 2024-07-12 09:44:30 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:44:40 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:44:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:48:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:48:52 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:49:34 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:50:54 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:50:55 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:50:59 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:51:21 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:51:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:55:00 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:55:10 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 09:56:02 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 10:15:41 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 11:38:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 11:38:43 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 11:38:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 11:40:20 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 11:40:27 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 11:43:36 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:17:05 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:30:12 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:30:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:30:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:31:06 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:34:42 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:35:29 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:35:39 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:37:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:37:08 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:37:28 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:37:32 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:41:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:41:49 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:41:56 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 15:42:00 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 20:01:28 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 20:01:53 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 20:50:46 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 20:50:47 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 21:52:42 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:17:25 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:17:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:17:59 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:19:26 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:27:09 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:27:23 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:27:39 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:27:47 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:29:01 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:29:04 --> 404 Page Not Found: /index
+ERROR - 2024-07-12 22:43:13 --> 404 Page Not Found: /index

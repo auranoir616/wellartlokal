@@ -1,0 +1,411 @@
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:04 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:05:05 --> Severity: Notice --> Undefined index: idrank /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 243
+ERROR - 2024-05-01 00:15:03 --> Severity: Warning --> Division by zero /home/n1578212/public_html/wellartdaniel.com/application/modules/cronjob/controllers/Cronjob.php 306
+ERROR - 2024-05-01 01:00:05 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:05:04 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:10:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:15:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:20:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:25:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:30:04 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:35:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:40:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:45:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:50:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 01:55:03 --> Query error: Unknown column 'w_balance_ket' in 'where clause' - Invalid query: SELECT *
+FROM `tb_wallet_pending`
+JOIN `tb_users_wallet` ON `wallet_id` = `w_pending_wallet_id`
+WHERE `w_pending_type` = 'credit'
+AND `w_balance_ket` = 'unilevel'
+AND `w_pending_wallet_id` = '4'
+AND `w_pending_date_add` BETWEEN "2024-04-01 00:00:00" AND "2024-04-30 23:59:59"
+ERROR - 2024-05-01 06:35:36 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:35:36 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:03 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:03 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:05 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:06 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:10 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:10 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:16 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:16 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:18 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:18 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:32 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:32 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:36:34 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:36:34 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:37:32 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:37:32 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:39:49 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:39:49 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:39:52 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:39:52 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 06:40:04 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 06:40:04 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:17:16 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:17:16 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:18:20 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:18:20 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:18:34 --> Could not find the language line "form_validation_required"
+ERROR - 2024-05-01 10:18:34 --> Could not find the language line "form_validation_required"
+ERROR - 2024-05-01 10:18:46 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:18:46 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:19:09 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:19:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:19:22 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:19:22 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:19:23 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:19:23 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:20:41 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:20:41 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:20:43 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:20:43 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:21:05 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:21:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:21:11 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:21:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:21:15 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:21:15 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:21:16 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:21:16 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:21:43 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:21:43 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:22:20 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:22:20 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:22:21 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:22:21 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:22:31 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:22:31 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:22:48 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:22:48 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:22:53 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:22:53 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:22:54 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:22:54 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:23:09 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:23:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:23:15 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:23:15 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:23:27 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:23:27 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:23:31 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:23:31 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:23:32 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:23:32 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:36 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:36 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:38 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:38 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:40 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:40 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:49 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:49 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:50 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:50 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:51 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:51 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:52 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:52 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:24:59 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:24:59 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:25:00 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:25:00 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:25:01 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:25:01 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 10:25:02 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 10:25:02 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 11:35:31 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 11:35:31 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:09 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:10 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:10 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:10 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:10 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:11 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:11 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:11 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:11 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:12 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:12 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:12 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:12 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:12 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:12 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:14 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:14 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 12:02:14 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 12:02:14 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 15:27:52 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 15:27:52 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 17:40:56 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 17:40:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 17:40:59 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 17:40:59 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 17:41:22 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 17:41:22 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:17:51 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:17:51 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:08 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:14 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:14 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:19 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:19 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:20 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:20 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:32 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:32 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:38 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:38 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:39 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:39 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:53 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:53 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:18:54 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:18:54 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:19:04 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:19:04 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:19:12 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:19:12 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:19:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:19:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:20:58 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:20:58 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:21:00 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:21:00 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:21:01 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:21:01 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:21:26 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:21:26 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:21:27 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:21:27 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:23:26 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:23:26 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:23:35 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:23:35 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:27:54 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:27:54 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:28:47 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:28:47 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:28:48 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:28:48 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:29:04 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:29:04 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:29:05 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:29:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:29:56 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:29:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:40:28 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:40:28 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:40:29 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:40:29 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:40:41 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:40:41 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:41:15 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:41:15 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:41:17 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:41:17 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 19:41:26 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 19:41:26 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:15:44 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:15:44 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:17:05 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:17:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:18:57 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:18:57 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:21:23 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:21:23 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:21:44 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:21:44 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:22:59 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:22:59 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:23:16 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:23:16 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:24:12 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:24:12 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:24:26 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:24:26 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:25:09 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:25:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:26:23 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:26:23 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:29:08 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:29:08 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-01 20:31:27 --> 404 Page Not Found: /index
+ERROR - 2024-05-01 20:31:27 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8

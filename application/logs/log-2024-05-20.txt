@@ -1,0 +1,86 @@
+ERROR - 2024-05-20 10:11:36 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 10:11:36 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 10:11:38 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 10:11:38 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 10:11:56 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 10:11:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 10:12:04 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 10:12:04 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 12:29:37 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 12:29:37 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 12:29:40 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 12:29:40 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 12:29:49 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 12:29:49 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 13:08:48 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 13:08:48 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 13:09:56 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 13:09:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 13:09:57 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 13:09:57 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 13:10:02 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 13:10:02 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 16:04:09 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 16:04:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 16:04:26 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 16:04:26 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:32:40 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:32:40 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:32:43 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:32:43 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:32:55 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:32:55 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:43:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:43:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:43:36 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:43:36 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:43:40 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:43:40 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:43:52 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:43:52 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 17:43:55 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 17:43:55 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 18:37:27 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 18:37:27 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:02:45 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:02:45 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:02:48 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:02:48 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:03:05 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:03:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:03:07 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:03:07 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:03:08 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:03:08 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:03:30 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:03:30 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:21:16 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:21:16 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:21:18 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:21:18 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:21:29 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:21:29 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:50:34 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:50:34 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 19:50:35 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 19:50:35 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:09:06 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:09:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:09:09 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:09:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:09:17 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:09:17 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:24:56 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:24:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:24:59 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:24:59 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:25:11 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:25:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 20:25:57 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 20:25:57 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 21:06:02 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 21:06:02 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 21:06:05 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 21:06:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
+ERROR - 2024-05-20 21:06:13 --> 404 Page Not Found: /index
+ERROR - 2024-05-20 21:06:13 --> Severity: error --> Exception: Call to undefined function base_url() /home/n1578212/public_html/wellartdaniel.com/application/views/errors/html/error_404.php 8
