@@ -275,6 +275,14 @@
                                             'submenu'   => FALSE,
                                         ),
                                         array(
+                                            'title'     => 'Data Gold Elite',
+                                            'icon'      => 'ti-folder',
+                                            'url'       => 'admin/data-gold-elite',
+                                            'notif'     => 0,
+                                            'typenotif' => null,
+                                            'submenu'   => FALSE,
+                                        ),
+                                        array(
                                             'title'     => 'Data PIN Kode',
                                             'icon'      => 'ti-folder',
                                             'url'       => 'admin/data-pin-serial',
@@ -464,7 +472,7 @@
                                         array(
                                             'title'     => 'Gold Elite',
                                             'icon'      => 'ti-gift',
-                                            'url'       => 'royalty',
+                                            'url'       => 'gold-elite',
                                             'notif'     => 0,
                                             'typenotif' => null,
                                             'submenu'   => FALSE,
