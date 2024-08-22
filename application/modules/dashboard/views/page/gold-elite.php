@@ -1,6 +1,10 @@
 <?php
-$this->template->title->set('Bonus Royalty');
+$this->template->title->set('Bonus Gold Elite');
+
+
 ?>
+
+
 <div class="alert alert-primary" role="alert" style="color:#000">
     Bonus Royalty masuk dalam <strong>Kategori Profit Share</strong>, yang akan dibagikan setiap Tanggal 01, Penerima Bonus ini harus memenuhi Syarat Omset Pada Bulan Sebelumnya. <u><a href="javascript:" data-bs-toggle="modal" data-bs-target="#syarat" title="Lihat Syarat Bonus" style="color:#000">Lihat Syarat Bonus</a></u>
 </div>
@@ -18,7 +22,22 @@ $this->template->title->set('Bonus Royalty');
         </div>
     </div>
 </div>
+<div class="row">
+    <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card bg-warning img-card box-warning-shadow">
+            <div class="card-body">
+                <div class="d-flex">
+                    <div class="text-white">
+                        <h2 class="mb-0 number-font h6"><?php echo $this->walletmodel->cekgoldelite(); ?></h2>
+                        <p class="text-white mb-0">Potensi Bonus Gold Elite</p>
+                    </div>
+                    <div class="ms-auto"> <i class="ti-wallet text-white fs-50 me-2 mt-2"></i> </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
+</div>
 <div class="card">
     <div class="card-header">
         <h3 class="card-title">Bonus Gold Elite</h3>

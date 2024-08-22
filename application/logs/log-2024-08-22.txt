@@ -213,3 +213,27 @@ AND `rank_id` != 1
 ERROR - 2024-08-22 10:45:00 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
 ERROR - 2024-08-22 10:45:48 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
 ERROR - 2024-08-22 10:45:56 --> Severity: Notice --> Array to string conversion D:\data\wellartlokal\application\modules\dashboard\views\page\dashboard.php 184
+ERROR - 2024-08-22 19:57:21 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 19:57:21 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 19:57:21 --> Could not find the language line "form_validation_required"
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> A non-numeric value encountered D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Notice --> Trying to access array offset on value of type int D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> A non-numeric value encountered D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> A non-numeric value encountered D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Notice --> Trying to access array offset on value of type int D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> A non-numeric value encountered D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 32
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 20:11:22 --> Severity: Warning --> Illegal string offset 'idrank' D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\postdata\models\admin_post\Shareprofit.php 41
+ERROR - 2024-08-22 20:38:31 --> Severity: Notice --> Undefined variable: info_pending D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\dashboard\views\page\gold-elite.php 10
+ERROR - 2024-08-22 20:51:54 --> Severity: Notice --> Undefined property: CI::$Walletmodel D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\third_party\MX\Loader.php 310
+ERROR - 2024-08-22 20:51:54 --> Severity: error --> Exception: Call to a member function cekgoldelite() on null D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\dashboard\views\page\gold-elite.php 31
+ERROR - 2024-08-22 20:54:28 --> Severity: Notice --> Undefined property: Administrator::$Walletmodel D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\third_party\MX\Loader.php 310
+ERROR - 2024-08-22 20:54:28 --> Severity: error --> Exception: Call to a member function cekgoldelite() on null D:\niomic\MyProject\data\wellartlokal\wellartlokal\application\modules\administrator\views\data-gold-elite.php 54

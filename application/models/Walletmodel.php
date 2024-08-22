@@ -351,6 +351,19 @@ class Walletmodel extends CI_Model
 
 		return $return;
 	}
+
+	function cekgoldelite(){
+		$query = "SELECT u.username, u.user_omset 
+					FROM tb_users u
+					WHERE u.user_omset >= 250 
+					AND (
+						SELECT COUNT(*)
+						FROM tb_users r
+						WHERE r.referral_id = u.id AND r.user_omset >= 250
+					) >= 3;
+				";
+		return $this->db->query($query)->num_rows();
+	}
 }
 
 /* End of file Walletmodel.php */
