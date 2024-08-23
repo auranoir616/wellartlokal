@@ -36,10 +36,10 @@ class Serial extends CI_Model
 			Self::$data['message'] 	= validation_errors(' ', '<br/>');
 		}
 
-		if (str_replace('.', '', $this->input->post('pin_total')) > 300) {
-			Self::$data['status'] 	= false;
-			Self::$data['message'] 	= "Maksimal Generate 300 PIN";
-		}
+		// if (str_replace('.', '', $this->input->post('pin_total')) > 300) {
+		// 	Self::$data['status'] 	= false;
+		// 	Self::$data['message'] 	= "Maksimal Generate 300 PIN";
+		// }
 
 
 		if (Self::$data['status']) {

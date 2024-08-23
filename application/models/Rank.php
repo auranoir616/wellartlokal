@@ -84,39 +84,39 @@ class Rank extends CI_Model
         return $myrank;
     }
 
-    function getmyrank($userid = null)
-    {
-        $this->db->select('userrank_userid, SUM(userrank_omset) AS total_omset');
-        $this->db->from('tb_userrank');
+    // function getmyrank($userid = null)
+    // {
+    //     $this->db->select('userrank_userid, SUM(userrank_omset) AS total_omset');
+    //     $this->db->from('tb_userrank');
     
-        if ($userid) {
-            $this->db->where('userrank_userid', $userid);
-        }
+    //     if ($userid) {
+    //         $this->db->where('userrank_userid', $userid);
+    //     }
     
-        $this->db->group_by('userrank_userid');
-        $query = $this->db->get();
-        $result = $query->result_array();
+    //     $this->db->group_by('userrank_userid');
+    //     $query = $this->db->get();
+    //     $result = $query->result_array();
     
-        foreach ($result as &$row) {
-            $total_omset = $row['total_omset'];
+    //     foreach ($result as &$row) {
+    //         $total_omset = $row['total_omset'];
     
-            $this->db->select('rank_name');
-            $this->db->from('tb_rank');
-            $this->db->where($total_omset .' BETWEEN rank_min AND rank_max');
+    //         $this->db->select('rank_name');
+    //         $this->db->from('tb_rank');
+    //         $this->db->where($total_omset .' BETWEEN rank_min AND rank_max');
 
-            $rank_query = $this->db->get();
-            $rank = $rank_query->row();
-            $row['rank_name'] = $rank ? $rank->rank_name : null; 
-        }
-        if (empty($result)) {
-            $result[] = [
-                'userrank_userid' => $userid,
-                'total_omset' => 0,
-                'rank_name' => 'MEMBER'
-            ];
-        }
-        return $result;
-    }    
+    //         $rank_query = $this->db->get();
+    //         $rank = $rank_query->row();
+    //         $row['rank_name'] = $rank ? $rank->rank_name : null; 
+    //     }
+    //     if (empty($result)) {
+    //         $result[] = [
+    //             'userrank_userid' => $userid,
+    //             'total_omset' => 0,
+    //             'rank_name' => 'MEMBER'
+    //         ];
+    //     }
+    //     return $result;
+    // }    
     function ranking($userid = null, $required = 2)
     {
         $result     = array();
@@ -203,47 +203,86 @@ class Rank extends CI_Model
         return $result;
     }
 
+    // function qualifSP($userid = null, $required = 2)
+    // {
+    //     $result     = array();
+    //     $userid     = ($userid == null) ? userid() : $userid;
+    //     $userdata   = userdata(['id' => $userid]);
+
+    //     $this->db->where('rank_id !=', (int)1);
+    //     $getRANK = $this->db->get('tb_rank');
+
+    //     $settttt = [];
+
+    //     $this->db->where('upline_id', $userid);
+    //     $getDown  = $this->db->get('tb_users');
+    //     foreach ($getRANK->result() as $showR) {
+    //         // DATA REFERRAL / DOWNLINE
+    //         $totQualif  = 0;
+    //         $totOMSET   = 0;
+    //         foreach ($getDown->result() as $userREF) {
+    //             // CEK APAKAH SETIAP USER MEMENUHI KULIFIKASI
+    //             // if (($userREF->user_omset >= $showR->rank_min && $userREF->user_omset <= $showR->rank_max)) {
+    //             if (($userREF->user_omset >= $showR->rank_min)) {
+    //                 // JIKA ADA USER YANG MEMENUHI KULIFIKASI MAKA DIHITUNG
+    //                 $totQualif += 1;
+    //                 $totOMSET += $userREF->user_omset;
+    //             }
+    //         }
+
+    //         if ($totQualif >= $required) {
+    //             // AMBIL RANK YANG MEMENUHI SYARAT
+    //             $settttt = [
+    //                 'idrank'    => $showR->rank_id,
+    //                 'myrank'    => $showR->rank_name,
+    //                 'myomset'   => $totOMSET,
+    //             ];
+    //         }
+    //     }
+
+    //     $result = $settttt;
+
+    //     return $result;
+    // }
     function qualifSP($userid = null, $required = 2)
-    {
-        $result     = array();
-        $userid     = ($userid == null) ? userid() : $userid;
-        $userdata   = userdata(['id' => $userid]);
+{
+    $result     = array();
+    $userid     = ($userid == null) ? userid() : $userid;
+    $userdata   = userdata(['id' => $userid]);
 
-        $this->db->where('rank_id !=', (int)1);
-        $getRANK = $this->db->get('tb_rank');
+    $this->db->where('rank_id !=', (int)1);
+    $getRANK = $this->db->get('tb_rank');
 
-        $settttt = [];
+    $this->db->where('upline_id', $userid);
+    $getDown  = $this->db->get('tb_users');
 
-        $this->db->where('upline_id', $userid);
-        $getDown  = $this->db->get('tb_users');
-        foreach ($getRANK->result() as $showR) {
-            // DATA REFERRAL / DOWNLINE
-            $totQualif  = 0;
-            $totOMSET   = 0;
-            foreach ($getDown->result() as $userREF) {
-                // CEK APAKAH SETIAP USER MEMENUHI KULIFIKASI
-                // if (($userREF->user_omset >= $showR->rank_min && $userREF->user_omset <= $showR->rank_max)) {
-                if (($userREF->user_omset >= $showR->rank_min)) {
-                    // JIKA ADA USER YANG MEMENUHI KULIFIKASI MAKA DIHITUNG
-                    $totQualif += 1;
-                    $totOMSET += $userREF->user_omset;
-                }
-            }
+    foreach ($getRANK->result() as $showR) {
+        // DATA REFERRAL / DOWNLINE
+        $totQualif  = 0;
+        $totOMSET   = 0;
 
-            if ($totQualif >= $required) {
-                // AMBIL RANK YANG MEMENUHI SYARAT
-                $settttt = [
-                    'idrank'    => $showR->rank_id,
-                    'myrank'    => $showR->rank_name,
-                    'myomset'   => $totOMSET,
-                ];
+        foreach ($getDown->result() as $userREF) {
+            // CEK APAKAH SETIAP USER MEMENUHI KUALIFIKASI
+            if ($userREF->user_omset >= $showR->rank_min) {
+                // JIKA ADA USER YANG MEMENUHI KUALIFIKASI MAKA DIHITUNG
+                $totQualif += 1;
+                $totOMSET += $userREF->user_omset;
             }
         }
 
-        $result = $settttt;
-
-        return $result;
+        if ($totQualif >= $required) {
+            // AMBIL RANK YANG MEMENUHI SYARAT DAN MASUKKAN KE DALAM HASIL
+            $result[] = [
+                'idrank'    => $showR->rank_id,
+                'myrank'    => $showR->rank_name,
+                'myomset'   => $totOMSET,
+            ];
+        }
     }
+
+    return !empty($result) ? $result : null;
+}
+
 
     function bagian($amount = 0, $type = 'ranking', $rankid = 0){
         $return = 0;

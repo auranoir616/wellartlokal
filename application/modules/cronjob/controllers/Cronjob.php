@@ -132,24 +132,62 @@ class Cronjob extends MX_Controller
 
         foreach ($get_USER->result() as $showw) {
             $generate_ranking = $this->rank->qualifSP($showw->user_id, 2);
-            if (is_array($generate_ranking) && count($generate_ranking) > 1) {
+            if ($generate_ranking != null) {
                 usort($generate_ranking, function ($a, $b) {
                     return $b['idrank'] - $a['idrank'];
                 });
                 $generate_ranking = array_slice($generate_ranking, 0, 2);
+
+                foreach ($generate_ranking as $item) {
+                    $this->db->insert(
+                        'tb_usershare',
+                        [
+                            'usershare_userid'  => $showw->user_id,
+                            'usershare_rankid'  => $item['idrank'],
+                            'usershare_status'  => 'ranking',
+                            'usershare_date'    => sekarang(),
+                            'usershare_code'    => strtolower(random_string('alnum', 64)),
+                        ]
+                    );
+                }
             }
-            foreach ($generate_ranking as $item) {
-                $this->db->insert(
-                    'tb_usershare',
-                    [
-                        'usershare_userid'  => $showw->user_id,
-                        'usershare_rankid'  => $item['idrank'],
-                        'usershare_status'  => 'ranking',
-                        'usershare_date'    => sekarang(),
-                        'usershare_code'    => strtolower(random_string('alnum', 64)),
-                    ]
-                );
-            }
+        }
+    }
+
+    function save_bonus_gold_elite()
+    {
+        $startbulanini       = date('Y-m-01 00:00:00', now());
+        $endbulanini         = date('Y-m-t 23:59:59', now());
+
+        $this->db->select_sum('omset_amount');
+        $this->db->where('omset_date BETWEEN "' . $startbulanini . '" AND "' . $endbulanini . '"');
+        $getbulanini    = $this->db->get('tb_omset');
+        $get_bulanini    = $getbulanini->row()->omset_amount;
+        if (!empty($get_bulanini)) {
+            $saldo_bulanini     = $get_bulanini;
+        }
+
+        if ($this->walletmodel->cekgoldelite()['jumlah'] != 0) {
+            $bonusgoldelit = ($saldo_bulanini * 10 / 100) / $this->walletmodel->cekgoldelite()['jumlah'];
+        }
+
+
+        $goldelite = $this->walletmodel->cekgoldelite();
+        $memberqualified = $goldelite['members'];
+        foreach ($memberqualified as $key) {
+            $wallet = $this->usermodel->userWallet('withdrawal', $key['id']);
+            $this->db->insert(
+                'tb_wallet_balance',
+                [
+                    'w_balance_wallet_id'       => $wallet->wallet_id,
+                    'w_balance_amount'          => 1000 * $bonusgoldelit,
+                    'w_balance_type'            => 'credit',
+                    'w_balance_desc'            => 'Bonus Gold Elite Bulan ' . date('Y-m-t', strtotime('-1 month', now())),
+                    'w_balance_date_add'        => sekarang(),
+                    'w_balance_txid'            => strtolower(random_string('alnum', 64)),
+                    'w_balance_ket'             => 'goldelite',
+                ]
+            );
         }
     }
 
@@ -238,86 +276,89 @@ class Cronjob extends MX_Controller
     //     }
     // }
     function shareRANKING()
-{
-    $startblnlalu   = date('Y-m-01 00:00:00', strtotime('-1 month', now()));
-    $endlnlalu      = date('Y-m-t 23:59:59', strtotime('-1 month', now()));
-    
-    $nilaiBV         = 1000;
+    {
+        $startblnlalu   = date('Y-m-01 00:00:00', strtotime('-1 month', now()));
+        $endlnlalu      = date('Y-m-t 23:59:59', strtotime('-1 month', now()));
+        // $startblnlalu = date('Y-m-01 00:00:00', strtotime('first day of this month')); // Tanggal pertama bulan ini
+        // $endlnlalu = date('Y-m-d H:i:s'); // Tanggal dan waktu sekarang
 
-    $saldo_bulanlalu = 0;
-    $this->db->select_sum('omset_amount');
-    $this->db->where('omset_date BETWEEN "' . $startblnlalu . '" AND "' . $endlnlalu . '"');
-    $getbulanlalu     = $this->db->get('tb_omset');
-    $get_bulanlalu    = $getbulanlalu->row()->omset_amount;
-    if (!empty($get_bulanlalu)) {
-        $saldo_bulanlalu     = $get_bulanlalu;
-    }
 
-    // AMBIL 30% DARI OMSET BV              
-    $BVRangking = (30 / 100) * $saldo_bulanlalu;
+        $nilaiBV         = 1000;
 
-    // GET USER RANKING
-    $this->db->where('usershare_status', 'ranking');
-    $this->db->where('tb_rank.rank_ranking !=', 0);
-    $this->db->join('tb_rank', 'usershare_rankid = rank_id');
-    $this->db->join('tb_users', 'usershare_userid = id');
-    $userranking = $this->db->get('tb_usershare');
-
-    $totalUSER = $userranking->num_rows();
-    // CONVER NILAI BV KE IDR (10.000). TOTAL AKAN DIBAGI KE USER
-    $ShareIDR = ($nilaiBV * $BVRangking) / $totalUSER;
-
-    foreach ($userranking->result() as $show) {
-        // BAGIANKU BERDASARKAN OMSET BULAN LALU
-        $bagianKU = ($show->rank_ranking / 100) * $ShareIDR;
-
-        // Bonus berdasarkan rank
-        switch ($show->rank_ranking) {
-            case 10: // APPRENTICE
-                $bagianKU *= 0.10; // 10%
-                break;
-            case 8: // START UP
-                $bagianKU *= (0.05 + 0.10); // 5% + 10%
-                break;
-            case 6: // MANAGER
-                $bagianKU *= (0.05 + 0.05); // 5% + 5%
-                break;
-            case 4: // CROWN
-                $bagianKU *= (0.05 + 0.05); // 5% + 5%
-                break;
-            case 2: // ROYAL
-                $bagianKU *= (0.05 + 0.05); // 5% + 5%
-                break;
-            default:
-                break;
+        $saldo_bulanlalu = 0;
+        $this->db->select_sum('omset_amount');
+        $this->db->where('omset_date BETWEEN "' . $startblnlalu . '" AND "' . $endlnlalu . '"');
+        $getbulanlalu     = $this->db->get('tb_omset');
+        $get_bulanlalu    = $getbulanlalu->row()->omset_amount;
+        if (!empty($get_bulanlalu)) {
+            $saldo_bulanlalu     = $get_bulanlalu;
         }
 
-        // Bagi dengan jumlah seluruh user dengan rank tertentu
+        // AMBIL 30% DARI OMSET BV              
+        $BVRangking = (30 / 100) * $saldo_bulanlalu;
+
+        // GET USER RANKING
         $this->db->where('usershare_status', 'ranking');
-        $this->db->where('usershare_rankid', $show->rank_id);
-        $jumlahUserRank = $this->db->count_all_results('tb_usershare');
+        $this->db->where('tb_rank.rank_ranking !=', 0);
+        $this->db->join('tb_rank', 'usershare_rankid = rank_id');
+        $this->db->join('tb_users', 'usershare_userid = id');
+        $userranking = $this->db->get('tb_usershare');
 
-        if ($jumlahUserRank > 0) {
-            $bagianKU /= $jumlahUserRank;
+        $totalUSER = $userranking->num_rows();
+        // CONVER NILAI BV KE IDR (10.000). TOTAL AKAN DIBAGI KE USER
+        $ShareIDR = ($nilaiBV * $BVRangking) / $totalUSER;
+
+        foreach ($userranking->result() as $show) {
+            // BAGIANKU BERDASARKAN OMSET BULAN LALU
+            $bagianKU = ($show->rank_ranking / 100) * $ShareIDR;
+
+            // Bonus berdasarkan rank
+            switch ($show->rank_ranking) {
+                case 10: // APPRENTICE
+                    $bagianKU *= 0.10; // 10%
+                    break;
+                case 8: // START UP
+                    $bagianKU *= (0.05 + 0.10); // 5% + 10%
+                    break;
+                case 6: // MANAGER
+                    $bagianKU *= (0.05 + 0.05); // 5% + 5%
+                    break;
+                case 4: // CROWN
+                    $bagianKU *= (0.05 + 0.05); // 5% + 5%
+                    break;
+                case 2: // ROYAL
+                    $bagianKU *= (0.05 + 0.05); // 5% + 5%
+                    break;
+                default:
+                    break;
+            }
+
+            // Bagi dengan jumlah seluruh user dengan rank tertentu
+            $this->db->where('usershare_status', 'ranking');
+            $this->db->where('usershare_rankid', $show->rank_id);
+            $jumlahUserRank = $this->db->count_all_results('tb_usershare');
+
+            if ($jumlahUserRank > 0) {
+                $bagianKU /= $jumlahUserRank;
+            }
+
+            // INPUT WALLET
+            $wallet = $this->usermodel->userWallet('withdrawal', $show->id);
+            $this->db->insert(
+                'tb_wallet_balance',
+                [
+                    'w_balance_wallet_id'       => $wallet->wallet_id,
+                    'w_balance_amount'          => floor($bagianKU),
+                    'w_balance_type'            => 'credit',
+                    'w_balance_desc'            => 'Bonus Ranking dari Omset Bulan ' . date('Y-m-t', strtotime('-1 month', now())),
+                    'w_balance_date_add'        => sekarang(),
+                    'w_balance_txid'            => strtolower(random_string('alnum', 64)),
+                    'w_balance_ket'             => 'ranking',
+                ]
+            );
+            echo $bagianKU;
         }
-
-        // INPUT WALLET
-        $wallet = $this->usermodel->userWallet('withdrawal', $show->id);
-        $this->db->insert(
-            'tb_wallet_balance',
-            [
-                'w_balance_wallet_id'       => $wallet->wallet_id,
-                'w_balance_amount'          => $bagianKU,
-                'w_balance_type'            => 'credit',
-                'w_balance_desc'            => 'Bonus Ranking dari Omset Bulan ' . date('Y-m-t', strtotime('-1 month', now())),
-                'w_balance_date_add'        => sekarang(),
-                'w_balance_txid'            => strtolower(random_string('alnum', 64)),
-                'w_balance_ket'             => 'ranking',
-            ]
-        );
-        echo $bagianKU;
     }
-}
 
 
     /*============================================
@@ -367,10 +408,10 @@ class Cronjob extends MX_Controller
 
     function shareUSERROYAL()
     {
-        // $startblnlalu   = date('Y-m-01 00:00:00', strtotime('-1 month', now()));
-        // $endlnlalu      = date('Y-m-t 23:59:59', strtotime('-1 month', now()));
-        $startblnlalu = date('Y-m-01 00:00:00', strtotime('first day of this month')); // Tanggal pertama bulan ini
-        $endlnlalu = date('Y-m-01 00:00:00', strtotime(now())); // Tanggal pertama bulan ini
+        $startblnlalu   = date('Y-m-01 00:00:00', strtotime('-1 month', now()));
+        $endlnlalu      = date('Y-m-t 23:59:59', strtotime('-1 month', now()));
+        // $startblnlalu = date('Y-m-01 00:00:00', strtotime('first day of this month')); // Tanggal pertama bulan ini
+        // $endlnlalu = date('Y-m-01 00:00:00', strtotime(now())); // Tanggal pertama bulan ini
 
 
 
@@ -444,4 +485,35 @@ class Cronjob extends MX_Controller
             );
         }
     }
+
+    function autowd(){
+
+        $this->db->where('user_bank_name !=', '');
+        $getUsers = $this->db->get('tb_users');
+        foreach ($getUsers->result() as $show) {
+		$wallet_withdrawal              = $this->usermodel->userWallet('withdrawal', $show->id)->wallet_address;
+		$info_walletwd                  = $this->walletmodel->walletAddressBalance($wallet_withdrawal);
+        if($info_walletwd >= 50000) {
+			$admin 		= 10000;
+			$pph 		= (2.5 / 100) * floor($info_walletwd);
+			$potongan  	= $admin + $pph;
+
+			$this->db->insert('tb_withdrawl', [
+				'withdrawl_userid'  		=> $show->id,
+				'withdrawl_amount'  		=> floor($info_walletwd),
+				'withdrawl_account'  		=> $show->user_bank_account,
+				'withdrawl_bank_name'  		=> $show->user_bank_name,
+				'withdrawl_bank_number'  	=> $show->user_bank_number,
+				'withdrawl_will_get'  		=> floor($info_walletwd) - $potongan,
+				'withdrawl_potongan'		=> $potongan,
+				'withdrawl_pph'				=> $pph,
+				'withdrawl_admin'			=> $admin,
+				'withdrawl_trxid' 			=> hash('SHA256', random_string('alnum', 16)),
+				'withdrawl_date'  			=> sekarang(),
+			]);
+        }
+
+	}
+	}
+
 }

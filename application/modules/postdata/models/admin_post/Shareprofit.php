@@ -27,7 +27,7 @@ class Shareprofit extends CI_Model
     
         foreach ($get_USER->result() as $showw) {
             $generate_ranking = $this->rank->qualifSP($showw->user_id, 2);
-            if (is_array($generate_ranking) && count($generate_ranking) > 1) {
+            if ($generate_ranking != null) {
                 usort($generate_ranking, function ($a, $b) {
                     return $b['idrank'] - $a['idrank'];
                 });

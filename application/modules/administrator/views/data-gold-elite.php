@@ -14,8 +14,11 @@ if (!empty($get_bulanini)) {
     $saldo_bulanini     = $get_bulanini;
 }
 
+if($this->walletmodel->cekgoldelite()['jumlah'] != 0){
+    $bonusgoldelit = ($saldo_bulanini * 10 / 100) / $this->walletmodel->cekgoldelite()['jumlah'];
+}
 
-$bonusgoldelit = ($saldo_bulanini * 10 / 100) / $this->walletmodel->cekgoldelite()
+    print_r($this->walletmodel->cekgoldelite());
 ?>
 <div class="row justify-content-between">
 
@@ -34,15 +37,15 @@ $bonusgoldelit = ($saldo_bulanini * 10 / 100) / $this->walletmodel->cekgoldelite
             <div class="card-body">
                 <h6>Potensi Bonus</h6>
                 <hr style="border-top: 1px solid #000;">
-                <h3><?php echo $bonusgoldelit ; ?> BV</h3>
-                <h5>Rp. <?php echo number_format(1000 * $bonusgoldelit, 0, ',', '.'); ?></h5>
-            </div>
+                <h3><?php echo (!empty($bonusgoldelit)) ? number_format($bonusgoldelit, 0, ',', '.') : '0' ; ?> BV</h3>
+                <h5>Rp. <?php echo isset($bonusgoldelit) ? number_format(1000 * $bonusgoldelit, 0, ',', '.') : 0; ?></h5>
+                </div>
         </div>
     </div>
 </div>
 <div class="card">
     <div class="card-header">
-        <h5>Histori</h5>
+        <h5>Member Yang Berhak Mendapatkan Bonus</h5>
     </div>
     <div class="card-body">
         <div class="table-responsive">
@@ -51,8 +54,7 @@ $bonusgoldelit = ($saldo_bulanini * 10 / 100) / $this->walletmodel->cekgoldelite
                     <tr>
                         <th width="5%">#</th>
                         <th width="20%">Member</th>
-                        <th>Deskripsi</th>
-                        <th width="20%">Tanggal</th>
+                        <th width="20%">Ranking</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -61,17 +63,16 @@ $bonusgoldelit = ($saldo_bulanini * 10 / 100) / $this->walletmodel->cekgoldelite
                     $offset      = ($this->input->get('page')) ? $this->input->get('page') : 0;
                     $no          = $offset + 1;
 
-                    $this->db->order_by('omset_date', 'DESC');
-                    $getdata = $this->db->get('tb_omset', $limit, $offset);
-
-                    $Gettotal = $this->db->get('tb_omset')->num_rows();
-                    foreach ($getdata->result() as $show) {
+                    $getdata = $this->walletmodel->cekgoldelite()['members'];
+                    $Gettotal = $this->walletmodel->cekgoldelite()['jumlah'];
+                    foreach ($getdata as $show) {
+                        $this->db->where('rank_id', userdata(['username' => $show['username']])->user_rankid);
+                        $rank = $this->db->get('tb_rank')->row();
                     ?>
                         <tr>
                             <td><?php echo $no++ ?></td>
-                            <td><?php echo number_format($show->omset_amount, 0, ',', '.'); ?> BV</td>
-                            <td><?php echo $show->omset_desc ?></td>
-                            <td><?php echo $show->omset_date ?></td>
+                            <td><?php echo $show['username'] ?></td>
+                            <td><?php echo $rank->rank_name ?></td>
                         </tr>
                     <?php } ?>
                 </tbody>

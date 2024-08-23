@@ -10,16 +10,16 @@ $this->template->sublabel->set('Statement Bonus');
         <div class="card-header d-flex justify-content-between align-items-center">
             <h3 class="card-title" id="statement_bonus">Statement Bonus</h3>
             <form method="get">
-                <div class="d-flex">
+                <div class="d-flex gap-3 align-items-center justify-content-center flex-wrap">
                     <div class="mr-3 mb-3">
                         <label for="start_date" id="start_date">Tanggal Awal</label>
                         <input type="date" id="start_date" name="start_date" class="form-control">
                     </div>
-                    <div class="mr-3">
+                    <div class="mr-3 mb-3">
                         <label for="end_date" id="end_date">Tanggal Akhir</label>
                         <input type="date" id="end_date" name="end_date" class="form-control">
                     </div>
-                    <div>
+                    <div class="justify-content-center align-items-center d-flex" >
                         <button type="submit" class="btn btn-success" id="tampilkan">Tampilkan</button>
                     </div>
                 </div>
@@ -46,6 +46,7 @@ $this->template->sublabel->set('Statement Bonus');
                                     <td>Bonus Sponsor</td>
                                     <td>Bonus Unilevel</td>
                                     <td>Bonus Peringkat</td>
+                                    <td>Bonus Gold Elite</td>
                                     <td>Bonus Royalty</td>
                                     <td>Total Bonus</td>
                                 </tr>
@@ -65,6 +66,9 @@ $this->template->sublabel->set('Statement Bonus');
                                     $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
                                     $this->db->where('w_balance_type', 'credit');
                                     $this->db->where('w_balance_ket', 'sponsor');
+                                    $this->db->where('w_balance_date_add >=', $start_date . ' 00:00:00');
+                                    $this->db->where('w_balance_date_add <=', $end_date . ' 23:59:59');
+                    
                                     $get_data = $this->db->get('tb_wallet_balance');
                                     $total_bonus_sponsor = 0;
                                     foreach ($get_data->result() as $row) {
@@ -78,6 +82,9 @@ $this->template->sublabel->set('Statement Bonus');
                                     $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
                                     $this->db->where('w_balance_type', 'credit');
                                     $this->db->where('w_balance_ket', 'unilevel');
+                                    $this->db->where('w_balance_date_add >=', $start_date . ' 00:00:00');
+                                    $this->db->where('w_balance_date_add <=', $end_date . ' 23:59:59');
+                    
                                     $get_data = $this->db->get('tb_wallet_balance');
                                     $total_bonus_unilevel = 0;
                                     foreach ($get_data->result() as $row) {
@@ -91,6 +98,9 @@ $this->template->sublabel->set('Statement Bonus');
                                     $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
                                     $this->db->where('w_balance_type', 'credit');
                                     $this->db->where('w_balance_ket', 'ranking');
+                                    $this->db->where('w_balance_date_add >=', $start_date . ' 00:00:00');
+                                    $this->db->where('w_balance_date_add <=', $end_date . ' 23:59:59');
+                    
                                     $get_data = $this->db->get('tb_wallet_balance');
                                     $total_bonus_peringkat = 0;
                                     foreach ($get_data->result() as $row) {
@@ -99,11 +109,29 @@ $this->template->sublabel->set('Statement Bonus');
                                     ?>
 
                                     <td><?php echo $total_bonus_peringkat; ?></td>
+                                    <?php
+                                    $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
+                                    $this->db->where('w_balance_type', 'credit');
+                                    $this->db->where('w_balance_ket', 'goldelite');
+                                    $this->db->where('w_balance_date_add >=', $start_date . ' 00:00:00');
+                                    $this->db->where('w_balance_date_add <=', $end_date . ' 23:59:59');
+                    
+                                    $get_data = $this->db->get('tb_wallet_balance');
+                                    $total_bonus_goldelite = 0;
+                                    foreach ($get_data->result() as $row) {
+                                        $total_bonus_goldelite += (int) $row->w_balance_amount;
+                                    }
+                                    ?>
+
+                                    <td><?php echo $total_bonus_goldelite; ?></td>
 
                                     <?php
                                     $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
                                     $this->db->where('w_balance_type', 'credit');
                                     $this->db->where('w_balance_ket', 'royalty');
+                                    $this->db->where('w_balance_date_add >=', $start_date . ' 00:00:00');
+                                    $this->db->where('w_balance_date_add <=', $end_date . ' 23:59:59');
+                    
                                     $get_data = $this->db->get('tb_wallet_balance');
                                     $total_bonus_royalty = 0;
                                     foreach ($get_data->result() as $row) {

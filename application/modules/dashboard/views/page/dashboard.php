@@ -137,11 +137,11 @@ if (!empty($get_ROPRIBADI)) {
                     <div class="text-white">
                         <h2 class="mb-4 number-font h6">
                             <?php
-                            $this->db->where('rank_id', userdata()->user_rankid);
-                            $getrank = $this->db->get('tb_rank');
-                            $myrank = isset($getrank->row()->rank_name) ? $getrank->row()->rank_name : 'Member';
+                            // $this->db->where('rank_id', userdata()->user_rankid);
+                            // $getrank = $this->db->get('tb_rank');
+                            // $myrank = isset($getrank->row()->rank_name) ? $getrank->row()->rank_name : 'Member';
+                            echo $this->rank->myrank();
                             ?>
-                            <?php echo $myrank;  ?>
                         </h2>
                         <p class="text-white mb-0">Rank Status</p>
                     </div>

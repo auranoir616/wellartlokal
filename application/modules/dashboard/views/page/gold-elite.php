@@ -28,7 +28,8 @@ $this->template->title->set('Bonus Gold Elite');
             <div class="card-body">
                 <div class="d-flex">
                     <div class="text-white">
-                        <h2 class="mb-0 number-font h6"><?php echo $this->walletmodel->cekgoldelite(); ?></h2>
+                        <h2 class="mb-0 number-font h6">Rp. <?php echo isset($this->walletmodel->cekgoldelite()['bonus']) ? number_format(1000 * $this->walletmodel->cekgoldelite()['bonus'], 0, ',', '.') : 0; ?>
+                        </h2>
                         <p class="text-white mb-0">Potensi Bonus Gold Elite</p>
                     </div>
                     <div class="ms-auto"> <i class="ti-wallet text-white fs-50 me-2 mt-2"></i> </div>
@@ -61,11 +62,11 @@ $this->template->title->set('Bonus Gold Elite');
                     $no          = $offset + 1;
 
                     $this->db->order_by('w_balance_date_add', 'DESC');
-                    $this->db->where('w_balance_ket', 'royalty');
+                    $this->db->where('w_balance_ket', 'goldelite');
                     $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
                     $getdata = $this->db->get('tb_wallet_balance', $limit, $offset);
 
-                    $this->db->where('w_balance_ket', 'royalty');
+                    $this->db->where('w_balance_ket', 'goldelite');
                     $this->db->where('w_balance_wallet_id', $wallet->wallet_id);
                     $Gettotal = $this->db->get('tb_wallet_balance')->num_rows();
                     foreach ($getdata->result() as $show) {
@@ -79,7 +80,7 @@ $this->template->title->set('Bonus Gold Elite');
                     <?php } ?>
                 </tbody>
             </table>
-            <?php echo $this->paginationmodel->paginate('royalty', $Gettotal, $limit) ?>
+            <?php echo $this->paginationmodel->paginate('gold-elite', $Gettotal, $limit) ?>
         </div>
     </div>
 </div>
