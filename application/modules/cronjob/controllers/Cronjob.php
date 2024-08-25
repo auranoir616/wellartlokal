@@ -356,8 +356,10 @@ class Cronjob extends MX_Controller
                     'w_balance_ket'             => 'ranking',
                 ]
             );
-            echo $bagianKU;
         }
+            echo 'bonusku ' . $bagianKU . '<br>';
+            echo ' 30% omset ' . $BVRangking  . '<br>';
+            echo 'saldo_bulanlalu ' . $saldo_bulanlalu  . '<br>';
     }
 
 
@@ -448,13 +450,13 @@ class Cronjob extends MX_Controller
             // Bonus berdasarkan rank
             switch ($show->rank_royalty) {
                 case 8: // MANAGER
-                    $bagianKU *= (8 / 100);
+                    $bagianKU *= (5 / 100);
                     break;
                 case 6: // CROWN
-                    $bagianKU *= (6 / 100);
+                    $bagianKU *= (5 / 100);
                     break;
                 case 4: // ROYAL
-                    $bagianKU *= (4 / 100);
+                    $bagianKU *= (5 / 100);
                     break;
                 default:
                     break;

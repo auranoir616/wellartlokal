@@ -12,7 +12,7 @@ $this->db->select_sum('w_pending_amount');
 $this->db->where('wallet_address', $wallet_address);
 $this->db->join('tb_users_wallet', 'wallet_id = w_pending_wallet_id', 'left');
 $this->db->where('w_pending_type', 'credit');
-// $this->db->where('w_pending_date_add BETWEEN "' . $start_date . '" AND "' . $end_date . '"');
+$this->db->where('w_pending_date_add BETWEEN "' . $start_date . '" AND "' . $end_date . '"');
 $get             = $this->db->get('tb_wallet_pending');
 $get_totalBONUS     = $get->row()->w_pending_amount;
 
@@ -28,6 +28,7 @@ if (!empty($get_totalBONUS)) {
                     <div class="text-white">
                         <h2 class="mb-0 number-font h6"><?php echo 'Rp. ' . number_format($info_pending, 0, ',', '.'); ?></h2>
                         <p class="text-white mb-0">Bonus Pending</p>
+                        <small>Bonus Yang akan didapat Pada awal Bulan</small>
                     </div>
                     <div class="ms-auto"> <i class="ti-wallet text-white fs-50 me-2 mt-2"></i> </div>
                 </div>
@@ -40,7 +41,9 @@ if (!empty($get_totalBONUS)) {
                 <div class="d-flex">
                     <div class="text-white">
                         <h2 class="mb-0 number-font h6"><?php echo 'Rp. ' . number_format($TBonus, 0, ',', '.'); ?></h2>
-                        <p class="text-white mb-0">Total Bonus</p>
+                        <p class="text-white mb-0">Total Bonus </p>
+                        <small>Bonus Yang Sudah Diterima Bulan lalu</small>
+
                     </div>
                     <div class="ms-auto"> <i class="ti-wallet text-white fs-50 me-2 mt-2"></i> </div>
                 </div>

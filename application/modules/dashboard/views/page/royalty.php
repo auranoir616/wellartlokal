@@ -28,19 +28,19 @@ $this->template->title->set('Bonus Royalty');
                                 <td>Manager</td>
                                 <td>50.000</td>
                                 <td>50.000</td>
-                                <td>8%</td>
+                                <td>5%</td>
                             </tr>
                             <tr>
                                 <td>Crown</td>
                                 <td>100.000</td>
                                 <td>100.000</td>
-                                <td>6%</td>
+                                <td>5%</td>
                             </tr>
                             <tr>
                                 <td>Royal</td>
                                 <td>300.000</td>
                                 <td>300.000</td>
-                                <td>4%</td>
+                                <td>5%</td>
                             </tr>
                         </tbody>
                     </table>

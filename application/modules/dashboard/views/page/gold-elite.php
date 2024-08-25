@@ -6,7 +6,7 @@ $this->template->title->set('Bonus Gold Elite');
 
 
 <div class="alert alert-primary" role="alert" style="color:#000">
-    Bonus Royalty masuk dalam <strong>Kategori Profit Share</strong>, yang akan dibagikan setiap Tanggal 01, Penerima Bonus ini harus memenuhi Syarat Omset Pada Bulan Sebelumnya. <u><a href="javascript:" data-bs-toggle="modal" data-bs-target="#syarat" title="Lihat Syarat Bonus" style="color:#000">Lihat Syarat Bonus</a></u>
+    Bonus Gold Elite akan dibagikan setiap Tanggal 01, Penerima Bonus ini harus memenuhi Syarat Omset Pada Bulan Sebelumnya. <u><a href="javascript:" data-bs-toggle="modal" data-bs-target="#syarat" title="Lihat Syarat Bonus" style="color:#000">Lihat Syarat Bonus</a></u>
 </div>
 <div class="modal fade" id="syarat" tabindex="-1" aria-labelledby="syaratLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
     <div class="modal-dialog modal-dialog-centered">
