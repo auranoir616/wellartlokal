@@ -9,7 +9,7 @@ class Frontpage extends MX_Controller
         parent::__construct();
     }
 
-    function index($page = 'home')
+    function index($page = 'index')
     {
         $data = array();
 
@@ -17,8 +17,7 @@ class Frontpage extends MX_Controller
             show_404();
             exit;
         }
-        $this->template->content->view($page, $data);
-        $this->template->publish();
+        $this->load->view($page, $data);
     }
 
     function test()
